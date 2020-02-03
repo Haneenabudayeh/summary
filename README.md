@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## *summary*
 
-You can use the [editor on GitHub](https://github.com/Haneenabudayeh/summary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*text editor*
+when first start web development learning you must download a text editor.
+many developer use different text editor.this mean text editor used personal choice.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+text editor is tool you can use as an spring web developer.
 
-### Markdown
+*most important feature*
+1.code completion
+1.syntax highlighting
+1.nice variety of themes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![text edditor](https://www.lifewire.com/thmb/oHOjLWKEc9cIAVjsgT5Vka3axFE=/923x647/filters:fill(auto,1)/sublime2-56a5aa575f9b58b7d0dde2ba.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+*Linux*
 
-**Bold** and _Italic_ and `Code` text
+Linux is an operating system. 
+Operating systems are computer programs that allow applications to understand the operating system by transferring something from an application, for example, to a computer processor. Then the processor performs the required task, then sends the results to the application via the operating system. And so the operating system plays
+Windows and OS.
 
-[Link](url) and ![Image](src)
-```
+terminal, is a text based interface to the system. 
+You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*some terminal to use*
+1.mkdir to make directory
+1.ls to stand for list
+1.cd enter file
+1.echo to write in side the file
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haneenabudayeh/summary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![linux](https://upload.wikimedia.org/wikipedia/commons/f/f4/Fedora_31_%282019-10%29_with_default_desktop_and_applications.png)
